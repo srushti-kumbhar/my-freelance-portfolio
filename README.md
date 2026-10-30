@@ -1,2 +1,4 @@
 # my-freelance-portfolio
-Personal portfolio showcasing my AI-assisted website projects, responsive web design, and web development learning journey.
+I enjoy building responsive websites, creating digital experiences, and exploring cybersecurity, AI and machine learning.
+
+Currently working on personal projects and developing my skills in web development and technology.
